@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @apsareena
 - 👩‍🎓 Pursued B.Tech in Computer Science and Engineering from SRM University, AP
 - 💻 I am good at Python programming language and a Cloud Enthusiast
-- 📫 How to reach me: shaikzulekha3132@gmail.com
+- 📫 How to reach me: apsareena.s@gmail.com
 
 
 
